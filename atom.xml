@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-04T03:32:30.307Z</updated>
+  <updated>2020-06-04T03:41:31.250Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://yoursite.com/2020/06/04/2020-6-4%E5%91%A8%E5%9B%9B%E8%8B%B1%E9%95%91/"/>
     <id>http://yoursite.com/2020/06/04/2020-6-4%E5%91%A8%E5%9B%9B%E8%8B%B1%E9%95%91/</id>
     <published>2020-06-04T03:19:34.000Z</published>
-    <updated>2020-06-04T03:32:30.307Z</updated>
+    <updated>2020-06-04T03:41:31.250Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="../IMG/2020-6-4%E5%91%A8%E5%9B%9B%E8%8B%B1%E9%95%91/image-20200604113223812.png" alt="image-20200604113223812"></p><p>入场点位：1.2605</p><p>目标点位：1.2537</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/IMG/2020-6-4%E5%91%A8%E5%9B%9B%E8%8B%B1%E9%95%91/image-20200604114121918.png" alt="image-20200604114121918"></p><p>入场点位：1.2605</p><p>目标点位：1.2537</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;../IMG/2020-6-4%E5%91%A8%E5%9B%9B%E8%8B%B1%E9%95%91/image-20200604113223812.png&quot; alt=&quot;image-20200604113223812&quot;&gt;&lt;/p&gt;
-&lt;p&gt;入场点位：1.2
+        &lt;p&gt;&lt;img src=&quot;/IMG/2020-6-4%E5%91%A8%E5%9B%9B%E8%8B%B1%E9%95%91/image-20200604114121918.png&quot; alt=&quot;image-20200604114121918&quot;&gt;&lt;/p&gt;
+&lt;p&gt;入场点位：1.260
       
     
     </summary>
